@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{60EFD733-9139-4B32-B51A-E5CC385150BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Startup.cs">
+    <Files>
+      <File FileName="MvcMovie/Startup.cs" Line="34" Column="14" />
+      <File FileName="MvcMovie/Views/HelloWorld/Index.cshtml" />
+      <File FileName="MvcMovie/Controllers/HelloWorldController.cs" />
+      <File FileName="MvcMovie/Views/Shared/_Layout.cshtml" />
+      <File FileName="MvcMovie/Views/HelloWorld/Welcome.cshtml" />
+      <File FileName="MvcMovie/Models/Movie.cs" />
+      <File FileName="MvcMovie/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True" selected="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
